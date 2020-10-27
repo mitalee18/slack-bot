@@ -1,2 +1,5 @@
-#ignore
+#ignore secrets
 *.env
+
+#ignore executable files
+*.exe
